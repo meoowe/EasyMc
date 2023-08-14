@@ -1,0 +1,4 @@
+name: EasyMc
+version: '${project.version}'
+main: com.meowee.easymc.EasyMc
+api-version: '1.20'
