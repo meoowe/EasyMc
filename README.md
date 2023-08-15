@@ -4,3 +4,4 @@ Makes Minecraft easier by giving full netherite, a bed and food upon joining
 Screenshots
 ![2](https://github.com/meoowe/EasyMc/assets/96916064/145aebb0-3980-4f4b-829d-d9b89975c246)
 ![3](https://github.com/meoowe/EasyMc/assets/96916064/42b02890-40c3-4a2b-a67b-a4c8f0bde620)
+VirusTotal results ![Screenshot](https://github.com/meoowe/EasyMc/assets/96916064/a6e7a5a7-01ea-49af-a2f7-6606f9a0e5b9)
